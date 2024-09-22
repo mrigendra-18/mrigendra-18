@@ -30,6 +30,22 @@
 
 ---
 
+### 💼 Projects
+
+Here are some of the notable projects I have worked on:
+
+1. **Whiteboard Application**
+   - A collaborative platform for users to sketch and brainstorm in real-time.
+   - Features: User authentication, real-time collaboration, and chat functionality.
+
+2. **Apollo.io Clone**
+   - A feature-rich web application that mimics the functionality of Apollo.io for managing contacts and outreach.
+   - Features: User accounts, data storage with MongoDB, and a responsive UI.
+
+
+---
+
+
 ### 📫 Let's Connect
 
 <p align="left">
@@ -69,7 +85,8 @@
   </a>
 </p>
 
----
+<!-- Add gap -->
+<hr style="margin: 20px 0;"/>
 
 ### 📊 GitHub Stats
 
