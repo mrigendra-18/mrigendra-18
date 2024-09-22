@@ -1,42 +1,26 @@
-# Hi there, I'm Mrigendra Patel 👋
+<h1 align="center">Hi 👋, I'm Mrigendra Patel</h1>
+<h3 align="center">Passionate Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast With a B.Tech in Civil Engineering, I discovered my true calling in software development, driven by an insatiable curiosity for coding and problem-solving. After completing a rigorous 35-week Full-Stack Web Development program at Masai School, I’ve mastered a diverse tech stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. My hands-on projects—such as building a collaborative Whiteboard Application and cloning Apollo.io—have sharpened my skills in crafting sleek, intuitive, and responsive web applications. I’m not just a developer; I’m a lifelong learner, constantly evolving with the fast-paced world of technology. I’m eager to collaborate on innovative solutions that blend creativity and functionality, and I’m excited to bring my unique background and skillset to impactful, real-world projects.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 
-![Profile views](https://gpvc.arturio.dev/mrigendrapatel11) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigendra-18&label=Profile%20views&color=0e75b6&style=flat" alt="mrigendra-18" /> </p>
 
-I'm a Full Stack Web Developer with a strong background in Civil Engineering. I love to create web applications that solve real-world problems. 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## About Me
+- 🌱 I’m currently learning **Python and C++**
 
-- 🔭 I’m currently working on a comprehensive blogging site that includes CRUD operations, user authentication, reactions, commenting, and more.
-- 🌱 I’m constantly learning new technologies and improving my skills in HTML, CSS, JavaScript, and various front-end and back-end frameworks.
-- 💬 Ask me about web development, API integration, or any tech-related queries.
-- 📫 How to reach me: mrigendrapatel11@gmail.com
-- ⚡ Fun fact: I have a BTech in Civil Engineering from Raipur, but my passion for coding led me to the world of web development.
+- 👨‍💻 All of my projects are available at [https://mrigendra-18.github.io/](https://mrigendra-18.github.io/)
 
-## Projects
+- 📫 How to reach me **mrigendrapatel11@gmail.com**
 
-- **User Card Display App**: A web app that shows user cards with 'Add to Cart' and 'Delete' functionality, maintaining data using local storage.
-- **Music Playlist App**: A web application built with HTML, CSS, and JavaScript for managing music playlists.
-- **Movie Search App**: Integrates with the OMDB API to search for movies, display results with pagination, and handle errors effectively.
-- **Infinite Scrolling App**: Uses the JSONPlaceholder API to dynamically load images as the user scrolls.
-- **Task Management System**: An advanced task management system with CRUD operations, priority adjustments, pagination, and filtering options.
-- **Online Auction System**: Real-time auction system enabling multiple users to bid on various items, track bid history, and manage auction timers.
-- **Weather Dashboard**: Fetches data from the OpenWeatherMap API to display current weather, a 30-day forecast, and supports user preferences like themes and recent searches.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Node.js, Express
-- **Databases**: JSON-server, MongoDB
-- **Tools**: Git, GitHub, VSCode
-- **Others**: API Integration, Responsive Design, Error Handling
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrigendra-18&show_icons=true&locale=en&layout=compact" alt="mrigendra-18" /></p>
 
-## Contact
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrigendra-18&show_icons=true&locale=en" alt="mrigendra-18" /></p>
 
-Feel free to reach out for collaboration, discussions, or just to connect!
-
-- Email: mrigendrapatel11@gmail.com
-- LinkedIn: [Mrigendra Patel](https://www.linkedin.com/in/mrigendra-patel)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigendrapatel11&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrigendra-18&" alt="mrigendra-18" /></p>
