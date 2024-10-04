@@ -38,8 +38,8 @@
   </a>
 </p>
 
-<h2 align="center" style="color: #6E8B3A;">🚀 Portfolio Link</h2>
-<p align="center">💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).</p>
+**🚀 Portfolio Link:**  
+💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
 
 <hr>
 
