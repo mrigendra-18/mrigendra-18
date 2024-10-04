@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=25&color=#40E0D0">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=30&color=#40E0D0">
   </a>
 </h1>
 
@@ -17,10 +17,10 @@
 <hr>
 
 <h2 align="center" style="color: #2E8B57;">🌱 Currently Exploring</h2>
-<p align="center">Node.js for building robust server-side applications.</p>
+<p align="center" style="font-size: 18px;">Node.js for building robust server-side applications.</p>
 
 <h2 align="center" style="color: #2E8B57;">💼 Collaboration</h2>
-<p align="center">Open to collaborating on exciting web development projects—let's create something amazing together!</p>
+<p align="center" style="font-size: 18px;">Open to collaborating on exciting web development projects—let's create something amazing together!</p>
 
 <p align="center">
   <a href="mailto:mrigendrapatel11@gmail.com">
@@ -37,7 +37,9 @@
 <br>
 
 **🚀 Portfolio Link:**  
-💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
+<p align="center">
+  💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
+</p>
 
 <hr>
 
@@ -87,15 +89,5 @@
 ---
 <br>
 
-<h2 align="center" style="color: #2E8B57;">🌟 My Projects</h2>
-<br>
-
-| Project | Description |
-|---------|-------------|
-| [**Whiteboard Application**](https://github.com/mrigendra-18/Judicial-Java_018) | Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success. 
-| [**Apollo.io Clone**](https://github.com/nikitanawle/Adobe-Alchemists_107) | Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success.
-
----
-
-<h2 align="center" style="color: #2E8B57;">📈 Let's Connect</h2>
-<p align="center">Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mrigendra-patel-mp) or via [Email](mailto:mrigendrapatel11@gmail.com). Let's collaborate on exciting projects!</p>
+<h2 align="center" style="color: #2E8B57;">Thank You for Visiting!</h2>
+<p align="center" style="font-size: 18px;">✨ Let's connect and build something awesome together! ✨</p>
