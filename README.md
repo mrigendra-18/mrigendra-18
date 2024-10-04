@@ -12,7 +12,10 @@
 
 | About Me |  |
 |----------|-------|
-|-🛠 As a **Civil Engineering graduate** turned **Full-Stack Developer**, I followed my passion for coding and problem-solving, embarking on an exciting journey from building infrastructure to crafting responsive, intuitive web applications.<br> -🌱 Currently exploring **Node.js** and expanding my backend development skills.🛠 Some key projects include developing a **Whiteboard Application** and **Apollo.io Clone**, with hands-on experience in **React**, **Node.js**, **MongoDB**, and more.<br> -🔥 Always eager to learn, solve challenges, and build innovative solutions that make an impact! | <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/> |
+|- As a **Civil Engineering graduate** turned **Full-Stack Developer**, I followed my passion for coding and problem-solving, embarking on an exciting journey from building infrastructure to crafting responsive, intuitive web applications.
+- 🛠 After completing an intense **35-week Full-Stack Web Development** program at **Masai School**, I've honed my skills in a variety of technologies, including **HTML, CSS, JavaScript, React, Node.js**, and **MongoDB**.
+- 🔧 Some of my key projects include developing a collaborative **Whiteboard Application** and a feature-rich **Apollo.io Clone**. These hands-on experiences have strengthened my ability to craft dynamic, user-friendly applications.
+- 🔥 I’m driven by a constant desire to learn and stay ahead in the ever-evolving tech landscape. Whether it's tackling complex challenges or building innovative solutions, I'm always eager to grow and contribute to meaningful projects. | <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/> |
 
 <hr>
 
