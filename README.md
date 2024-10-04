@@ -67,6 +67,18 @@
 
 <hr>
 
+<h2 align="center" style="color: #2E8B57;">🌟 My Projects</h2>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [**Whiteboard Application**](https://github.com/mrigendra-18/Judicial-Java_018) | Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success. 
+| [**Apollo.io Clone**](https://github.com/nikitanawle/Adobe-Alchemists_107) | Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success.
+
+---
+
+<hr>
+
 <h2 align="center" style="color: #2E8B57;">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
