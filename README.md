@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=35&color=6B8E23">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=25&color=#40E0D0">
   </a>
 </h1>
 
@@ -34,9 +34,11 @@
   </a>
 </p>
 
+<br>
+<h1 align="center">
 **🚀 Portfolio Link:**  
 💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
-
+</h1>
 <hr>
 
 <h2 align="center" style="color: #2E8B57;">🔥 Languages, Frameworks & Tools</h2>
