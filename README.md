@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=35&color=6E8B3A">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=35&color=6B8E23">
   </a>
 </h1>
 
 <br>
 
-<h3 align="center">🚀 Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast</h3>
+<h3 align="center" style="color: #2E8B57;">🚀 Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast</h3>
 
 ---
 
@@ -16,10 +16,10 @@
 
 <hr>
 
-<h2 align="center" style="color: #6E8B3A;">🌱 Currently Exploring</h2>
+<h2 align="center" style="color: #2E8B57;">🌱 Currently Exploring</h2>
 <p align="center">Node.js for building robust server-side applications.</p>
 
-<h2 align="center" style="color: #6E8B3A;">💼 Collaboration</h2>
+<h2 align="center" style="color: #2E8B57;">💼 Collaboration</h2>
 <p align="center">Open to collaborating on exciting web development projects—let's create something amazing together!</p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <hr>
 
-<h2 align="center" style="color: #6E8B3A;">🔥 Languages, Frameworks & Tools</h2>
+<h2 align="center" style="color: #2E8B57;">🔥 Languages, Frameworks & Tools</h2>
 <br>
 
 <div align="center">
@@ -65,7 +65,7 @@
 
 <hr>
 
-<h2 align="center" style="color: #6E8B3A;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color: #2E8B57;">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
   <div align="center">
@@ -81,16 +81,19 @@
   
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrigendra-18&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
+<hr>
 
----
+<h2 align="center" style="color: #2E8B57;">🔗 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrigendra-patel-mp" target="_blank">LinkedIn</a> | 
+  <a href="https://github.com/mrigendra-18" target="_blank">GitHub</a> | 
+  <a href="mailto:mrigendrapatel11@gmail.com">Email</a>
+</p>
 
-<h3 align="center">Thank you for visiting my profile! 😊</h3>
+<br>
+<p align="center" style="color: #2E8B57;">Made with ❤️ by Mrigendra Patel</p>
