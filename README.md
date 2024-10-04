@@ -10,7 +10,7 @@
 
 ---
 
-| About Me | Image |
+| About Me |  |
 |----------|-------|
 | 🌟 **Civil Engineering graduate** turned **Full-Stack Developer**, passionate about crafting responsive and intuitive web applications.<br>🔍 Currently diving into **Node.js** to enhance my backend development skills.<br>💻 Notable projects include a **Whiteboard Application** and **Apollo.io Clone**, showcasing my experience with **React**, **Node.js**, **MongoDB**, and more.<br>💡 Always eager to learn, tackle challenges, and build innovative solutions that leave a mark! | <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/> |
 
