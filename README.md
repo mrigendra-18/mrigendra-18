@@ -35,10 +35,10 @@
 </p>
 
 <br>
-<h1 align="center">
+
 **🚀 Portfolio Link:**  
 💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
-</h1>
+
 <hr>
 
 <h2 align="center" style="color: #2E8B57;">🔥 Languages, Frameworks & Tools</h2>
