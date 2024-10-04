@@ -75,31 +75,27 @@
       <img align="left" width="390" src="https://streak-stats.demolab.com/?user=mrigendra-18&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" /> 
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mrigendra-18&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-    </a>
-  </div>
-  
-  <br><br><br><br><br><br><br><br>
-  
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&theme=react&border_color=61dafb&hide_border=true&layout=compact" alt="Top Languages" />
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mrigendra-18&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="My Stats" />
     </a>
   </div>
 </p>
 
-<hr>
-
-<h2 align="center" style="color: #2E8B57;">🌐 My Projects</h2>
-<br>
 <p align="center">
-  <h3><a href="[https://github.com/mrigendra-18/Whiteboard-App](https://669e1ed439ba5f036f246156--golden-eclair-9d611b.netlify.app/)" target="_blank">Whiteboard Application</a></h3>
-  <p>Collaborative Whiteboard is a versatile, real-time application designed to enhance collaborative efforts across various fields. Whether you're engaging in brainstorming sessions or teaching, this whiteboard provides the necessary tools for effective visual communication and idea management.</p>
-
-  <h3><a href="[https://github.com/mrigendra-18/apollo-clone](https://ubiquitous-caramel-ba07c4.netlify.app/)" target="_blank">Apollo.io Clone</a></h3>
-  <p>Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success.</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<h4 align="center">📫 Reach out to me on <a href="https://www.linkedin.com/in/mrigendra-patel-mp" target="_blank">LinkedIn</a> or <a href="mailto:mrigendrapatel11@gmail.com">Email</a>!</h4>
+<h2 align="center" style="color: #2E8B57;">🌟 My Projects</h2>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [**Whiteboard Application**](https://github.com/mrigendra-18/Judicial-Java_018) | Apollo.io is a comprehensive sales engagement and lead generation platform designed to empower sales teams with the tools they need to find, engage, and convert potential customers efficiently. With an extensive database, advanced search capabilities, and robust engagement tools, Apollo.io helps businesses streamline their sales processes and achieve their revenue goals. Whether you're a small business looking to grow or an enterprise aiming to optimize your sales strategy, Apollo.io provides the data and functionality to support your success. 
+| [**Apollo.io Clone**](https://github.com/nikitanawle/Adobe-Alchemists_107) | A clone of Apollo.io with features like user authentication and job posting. Developed using **React**, **Node.js**, and **MongoDB**. |
+
+
+---
+
+<h2 align="center" style="color: #2E8B57;">📈 Let's Connect</h2>
+<p align="center">Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mrigendra-patel-mp) or via [Email](mailto:mrigendrapatel11@gmail.com). Let's collaborate on exciting projects!</p>
