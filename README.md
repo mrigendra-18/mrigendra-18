@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Mrigendra+Patel....;Nice+to+meet+you!&center=true&size=35&color=6E8B3A">
   </a>
 </h1>
 
@@ -13,20 +13,18 @@
 
 ### 🎓 About Me
 
-- 🛠 I am a **Civil Engineering graduate** turned **Full-Stack Developer**, who has followed my passion for coding and problem-solving, transitioning from building infrastructure to crafting responsive, intuitive web applications.
-- 🌱 Currently exploring **Node.js** and expanding my backend development skills.
-- 🛠 Key projects include developing a **Whiteboard Application** and **Apollo.io Clone**, with hands-on experience in **React**, **Node.js**, **MongoDB**, and more.
-- 🔥 Always eager to learn, solve challenges, and build innovative solutions that make an impact!
+- 🌟 **Civil Engineering graduate** turned **Full-Stack Developer**, passionate about crafting responsive and intuitive web applications.
+- 🔍 Currently diving into **Node.js** to enhance my backend development skills.
+- 💻 Notable projects include a **Whiteboard Application** and **Apollo.io Clone**, showcasing my experience with **React**, **Node.js**, **MongoDB**, and more.
+- 💡 Always eager to learn, tackle challenges, and build innovative solutions that leave a mark!
 
 ---
 
-<hr>
+<h2 align="center" style="color: #6E8B3A;">🌱 Currently Exploring</h2>
+<p align="center">Node.js for building robust server-side applications.</p>
 
-**🌱 Currently Exploring:**  
-I’m diving into Node.js, enhancing my backend development skills and building robust server-side applications.
-
-**💼 Collaboration:**  
-Open to collaborating on web development projects—let's create something amazing together!
+<h2 align="center" style="color: #6E8B3A;">💼 Collaboration</h2>
+<p align="center">Open to collaborating on exciting web development projects—let's create something amazing together!</p>
 
 <p align="center">
   <a href="mailto:mrigendrapatel11@gmail.com">
@@ -40,12 +38,12 @@ Open to collaborating on web development projects—let's create something amazi
   </a>
 </p>
 
-**🚀 Portfolio Link:**  
-💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).
+<h2 align="center" style="color: #6E8B3A;">🚀 Portfolio Link</h2>
+<p align="center">💻 Check out my projects at [**My Portfolio**](https://mrigendra-18.github.io/).</p>
 
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" style="color: #6E8B3A;">🔥 Languages, Frameworks & Tools</h2>
 <br>
 
 <div align="center">
@@ -71,7 +69,7 @@ Open to collaborating on web development projects—let's create something amazi
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" style="color: #6E8B3A;">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -85,19 +83,19 @@ Open to collaborating on web development projects—let's create something amazi
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
     </a>
   </div>
 </p>
 
-<hr>
+---
 
-<h2 align="center">📝 My Projects 📝</h2>
-
-| Project                  | Description                                           | Link                                   |
-|--------------------------|-------------------------------------------------------|----------------------------------------|
-| Whiteboard Application    | Collaborative drawing application with real-time features. | [Live Demo](https://669e1ed439ba5f036f246156--golden-eclair-9d611b.netlify.app/)      |
-| Apollo.io Clone           | Clone of the Apollo.io platform with similar functionality. | [Live Demo](https://ubiquitous-caramel-ba07c4.netlify.app/)      |
-
+<h2 align="center" style="color: #6E8B3A;">👨‍💻 Let's Connect!</h2>
+<p align="center">Feel free to reach out or connect with me on:</p>
+<p align="center">
+  <a href="mailto:mrigendrapatel11@gmail.com">✉️ Email</a> |
+  <a href="https://www.linkedin.com/in/mrigendra-patel-mp" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://github.com/mrigendra-18" target="_blank">🐱 GitHub</a>
+</p>
 
 <p align="center">Made with ❤️ by Mrigendra Patel</p>
