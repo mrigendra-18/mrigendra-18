@@ -8,20 +8,13 @@
 
 <h3 align="center">🚀 Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast</h3>
 
-<div align="right">
-  <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
-</div>
-
 ---
 
-### 🎓 About Me
+| About Me | Image |
+|----------|-------|
+| 🌟 **Civil Engineering graduate** turned **Full-Stack Developer**, passionate about crafting responsive and intuitive web applications.<br>🔍 Currently diving into **Node.js** to enhance my backend development skills.<br>💻 Notable projects include a **Whiteboard Application** and **Apollo.io Clone**, showcasing my experience with **React**, **Node.js**, **MongoDB**, and more.<br>💡 Always eager to learn, tackle challenges, and build innovative solutions that leave a mark! | <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/> |
 
-- 🌟 **Civil Engineering graduate** turned **Full-Stack Developer**, passionate about crafting responsive and intuitive web applications.
-- 🔍 Currently diving into **Node.js** to enhance my backend development skills.
-- 💻 Notable projects include a **Whiteboard Application** and **Apollo.io Clone**, showcasing my experience with **React**, **Node.js**, **MongoDB**, and more.
-- 💡 Always eager to learn, tackle challenges, and build innovative solutions that leave a mark!
-
----
+<hr>
 
 <h2 align="center" style="color: #6E8B3A;">🌱 Currently Exploring</h2>
 <p align="center">Node.js for building robust server-side applications.</p>
@@ -85,8 +78,8 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigendra-18&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Go to Source">
+      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mrigendra-18&bg_color=00000000&color=2DD2F6&line=0064FF&point=1EEB9D&area=true&hide_border=true" alt="Activity Graph" />
     </a>
   </div>
 </p>
